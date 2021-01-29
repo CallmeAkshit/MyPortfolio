@@ -1,0 +1,70 @@
+.projects
+{
+    color:rgb(6, 83, 45); 
+    font-family: "Garamond";
+    font-size: 5mm;
+}
+
+ 
+.navi{
+    text-align : center;
+    position : relative;
+    background-color: rgb(6, 83, 45);
+    margin-left: 30px;
+}
+a:visited{
+    color : wheat;
+    text-decoration: none;
+}
+a:link{
+    color : wheat;
+    text-decoration : none; 
+}
+a:hover{
+    color : rgb(218, 226, 225);
+    text-decoration: none;
+} 
+a.char1:link{
+    color :rgb(6, 83, 45);
+    text-decoration: none;
+}
+a.char1:visited{
+    color :rgb(6, 83, 45);
+    text-decoration: none;
+}
+a.char1:hover{
+    color : rgb(4, 105, 4);
+    text-decoration: underline;
+}
+
+table,
+th,
+td {
+    color: rgb(2, 31, 21);
+    padding: 10px;
+    margin: 30px;
+    border: 1px solid rgb(2, 63, 28);
+    border-collapse: collapse;
+}
+
+.WorkEx
+{
+    padding: 0px;
+    font-family: "Garamond";
+    font-size: 5mm;
+}
+
+.h1{
+    position: relative;
+    margin-left : 35px;
+    color: rgb(0, 0, 0);
+}
+
+.Contact
+{
+    text-align : center;
+    position : relative;
+    font-family: "Garamond";
+    font-size: 6mm;
+    color:rgb(6, 83, 45);
+}
