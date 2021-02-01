@@ -1,0 +1,72 @@
+.navbar a
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+    color : black;
+    text-transform: uppercase;
+    letter-spacing: .2em;
+    padding-top: 10rem;
+    padding-bottom: 3rem;
+    
+    color : inherit;
+    
+   
+}
+.header-right
+{
+    float : right;
+    font-family: serif;
+    transition: max-height 284 ms ease 0s;
+    margin-left: 20px;
+    border-radius: 0px;
+    
+}
+a:hover{
+    color : rgb(76, 105, 235);
+    text-decoration: none;
+    transition-property: ease ;
+    position: relative;
+    background-color: grey;
+}
+
+.inline-nav-right-1
+{
+    display : inline-block;
+    margin-left: 20px;
+}
+
+.header-left {
+    float: left;
+    display : block;
+    font-size: 20px;
+    letter-spacing: 1px;
+}
+
+.gray-box
+{
+    background-color: rgba(223, 77, 77, 0.712);
+    margin-top: 10mm; 
+}
+
+.px
+{
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
+.py
+{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.border-bottom
+{
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-color: rgba(0,0,0,.125);
+}
+.center
+{
+    text-align: center;
+}
